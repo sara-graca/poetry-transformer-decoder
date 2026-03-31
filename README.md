@@ -22,8 +22,10 @@ Temperature controls output style: lower values produce more repetitive but cohe
 
 ### Example output
 ```
-When Saint flowers came
-When dead was hound Had Miss Briss
-The teeth dead day through a hame,
-Laid, countenakly in the pain.
+So now, like the singing year ago,
+        The pumpkin's sins they slips on their terror,
+      So expansively selected in the hill;
+        She answered him if she found him, it bound them loud
+        mounting the wild, haunted things at last,
+            As if he had been quite prevailed.
 ```
