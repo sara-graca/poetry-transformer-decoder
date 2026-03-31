@@ -20,7 +20,7 @@ A GPT decoder with Pre-LayerNorm, GELU activation, learned positional embeddings
 
 Temperature controls output style: lower values produce more repetitive but coherent text, higher values produce more creative and chaotic output.
 
-### Example output
+### Example output (temperature = 0.8)
 ```
 So now, like the singing year ago,
         The pumpkin's sins they slips on their terror,
